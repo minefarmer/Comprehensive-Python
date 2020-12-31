@@ -1,0 +1,8 @@
+Operator    Name                        Example
+
+%           Modulas         a % b       3 
+
+**          Power (pow)     a ** b
+
+//          Floor division   a // b 
+

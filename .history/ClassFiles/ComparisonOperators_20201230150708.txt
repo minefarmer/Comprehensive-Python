@@ -1,0 +1,7 @@
+Operator    Name
+==          Equal
+!=          Not Equal  
+>           Greater Than
+<           Less Than  
+>=          Greater than or equal to
+

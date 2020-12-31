@@ -1,0 +1,17 @@
+THEY ARE USED TO COMBINE CONDITIONAL STATEMENTS
+
+Operator    Description
+and         Returns True if all conditions are TRUE.
+or          Returns True if either condition is true.
+not         Returns False if result is True.
+
+>>> a = 7
+>>> print(a > 6 and a < 9)
+True
+>>> print(a > 6 or a < 9)
+True
+>>> print(a > 6 or a < 5)
+True
+>>> print(not (a > 6 and a < 9))
+False
+>>>

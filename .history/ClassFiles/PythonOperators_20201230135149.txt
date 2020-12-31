@@ -1,0 +1,25 @@
+                        PYTHON OPERATORS
+
+Operators are functionality that does something to values.
+
+They can be represented by special symbols such as +
+
+They usually require data to operate on or work with.
+
+The Data user by the operators are called operands. Example 3 + 4  (3 and 4 are operands and + is an operator)
+
+
+
+                        TYPES OF OPERATORS
+
+Arithmetic Operators    # used to perform different types of mathematical operations on a set of values.
+
+Assignment Operators    # used to asign values
+
+Comparison Operators    # used to compare values
+
+Logical Operators       # used to combine conditional statements.
+
+Identy Operators        # used to check that certain values are the same, so they will compare the values of certain objects and check if they are the same or not.
+
+Membership Operators    # used to check or test if a certain value exist in a sequence of values.

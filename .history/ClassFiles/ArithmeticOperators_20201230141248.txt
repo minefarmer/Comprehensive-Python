@@ -1,0 +1,8 @@
+Operator    Name                        Example
+
+%           Modulas         a % b       5 % 2 = 1
+
+**          Power (pow)     a ** b      print(5 ** 3 )
+
+//          Floor division   a // b 
+

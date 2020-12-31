@@ -1,0 +1,7 @@
+THEY ARE USED TO COMBINE CONDITIONAL STATEMENTS
+
+Operator    Description
+and         Returns True if all conditions are TRUE.
+or          Returns True if either condition is true.
+not         Returns False if result is True.
+

@@ -1,0 +1,6 @@
+Operator    Name        Example
+
+%           Modulas     a % b
+
+**          Power (pow)   a ** b
+

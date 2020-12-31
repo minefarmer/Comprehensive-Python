@@ -1,0 +1,2 @@
+PYTHON IDENTITY OPERATORS
+They are used to compare if objects are the same

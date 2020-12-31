@@ -1,0 +1,4 @@
+Operator    Name
+==          Equal
+!=          Not Equal  
+>            

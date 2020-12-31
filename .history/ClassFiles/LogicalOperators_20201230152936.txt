@@ -1,0 +1,5 @@
+THEY ARE USED TO COMBINE CONDITIONAL STATEMENTS
+
+Operator    Description
+and         Returns True if all conditions are TRUE
+or          R

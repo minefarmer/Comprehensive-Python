@@ -1,0 +1,4 @@
+THEY ARE USED TO COMBINE CONDITIONAL STATEMENTS
+
+Operator    Description
+and         

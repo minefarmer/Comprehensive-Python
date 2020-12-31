@@ -1,0 +1,16 @@
+Operator        Example     Equivalent
+=               a = 4       a = 4
++=              a+ = 5      a = a +5
+-=              a- =4       a = a - 4
+
+
+>>> d = 8
+>>> d
+8
+
+
+>>> d += 4
+>>> d
+12
+
+
