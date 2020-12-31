@@ -1,0 +1,36 @@
+            OPERATOR PRECEDENCE
+This determines the order in which operators should be evaluated if there are multiple operators used in a statement or expression.
+
+Operator Precedence     Name    ## Hiest at the top
+()                      Parenthesis
+**                      Exponent (Power)(Power)
+~x                      Bitwise NOT
+*, /, //, %             Multiplication, Division, Floor Division, Modulas
++, -                    Addition, subtraction
+<<, >>                  Bitwise shift operators
+&                       Bitwise AND
+^                       Bitwise XOR
+|                       Bitwise OR
+--, !=, >, >=, <, <=, is, is not, in, not in        Comparisons, Identy, MEMBERSHIP
+not                     Logical NOT
+and                     Logical AND
+or                      Logical OR
+
+
+Any expression that has a parentheses around it, but a part of the expression will always get evaluated first.
+
+
+>>> 3 + 4 * 2
+11
+
+>>> (3 + 4) * 2
+14
+
+
+
+            ASSOCIATIVITY OF OPERATORS
+This is the order in which an expression is evaluated that has multiple operators of the same precedence.
+
+Almost all operators have left-right associativity.
+
+!!!!!  Associativity can not be applied to Comparison and Assignment Operators.

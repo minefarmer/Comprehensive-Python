@@ -1,0 +1,3 @@
+""" ThisString Data type(str)
+
+"""

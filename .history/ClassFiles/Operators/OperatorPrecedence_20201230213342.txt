@@ -1,0 +1,10 @@
+            OPERATOR PRECEDENCE
+This determines the order in which operators should be evaluated if there are multiple operators used in a statement or expression.
+
+Operator Precedence     Name    ## Hiest at the top
+()                      Parenthesis
+**                      Exponent (Power)(Power)
+~x                      Bitwise NOT
+*, /, //, %             Multiplication, Division, Floor Division, Modulas
++, -                    Addition, subtraction
+<<, >>,                 Bitwise sh
