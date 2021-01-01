@@ -1,0 +1,9 @@
+                DATA STRUCTURES
+They are structures which can hold some data together.
+They are used to store a collection of related data.
+
+    Python has the following built-in data structures:
+List
+Tuple
+Set
+Dictionary
