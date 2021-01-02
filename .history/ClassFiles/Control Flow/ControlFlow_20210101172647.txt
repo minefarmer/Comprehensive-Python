@@ -1,0 +1,3 @@
+Control Flow is the order in which the program's code executes.
+Code executes from top to bottom and left to right.
+I can use control statements to control the order in which the code 

@@ -1,0 +1,13 @@
+Control Flow is the order in which the program's code executes.
+Code executes from top to bottom and left to right.
+I can use control statements to control the order in which the program's code executes.
+They help my program make decisions.
+The control flow of a Python program is regulated by:
+
+conditional statements (if,else,else) are statements that only run based on certain conditions.
+
+Loops are used to repeat a specific block of code. (for and while)
+
+Function call is basically when you call a function by its name and you get the function to execute.
+
+
