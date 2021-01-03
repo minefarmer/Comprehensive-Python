@@ -1,0 +1,17 @@
+'''                 Passing functions as arguments
+def dream_home():
+    pass
+
+
+
+
+
+
+'''
+def mynum(b):
+    return b + 1
+def addnum(c):
+    newnum = 7
+    return c(newnum)
+print(addnum(mynum))  # 8
+

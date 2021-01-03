@@ -1,0 +1,23 @@
+Type of programming that breaks things into objects that interacts with each other.
+Objects are created from classes.
+Object Oriented Programming encourages code reuse through the D,R.Y. concept.
+
+
+An object can be an entity or anything in your program like a noun.
+Cars, planes are objects.
+
+
+A class is a blueprint (Template) for ceating objects.
+Class can have properties(attributes) which are like variables that store data.
+Classes can also have behaviours(methods). These re like functions.
+I can create many unique objects from a single class.
+
+
+Instantiating a class means ceating a new object from a class.
+
+            Class cars
+Attributes              Methods
+Color                   Strat()
+Engine                  Stop()
+Door                    Reverse()
+Brand                   Acclerate()
