@@ -17,5 +17,5 @@ class Instructors:
     def printinfo(self):
         print("My company name is ", Instructors.companyName)
 
-class Pets:
-    pass
+# class Pets:
+#     pass
