@@ -1,0 +1,4 @@
+'''                     instantiating a class
+
+
+'''
