@@ -23,4 +23,4 @@ bls = Instructors("Django for Beginners")  # a variable  second instance of the 
 
 bls.printinfo()  # My company name is  Bluelime
 
-print(bls.course)  # Django for Beginners
+print(bls.course)  # 

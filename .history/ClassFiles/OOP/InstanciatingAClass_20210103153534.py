@@ -1,9 +1,9 @@
 '''                     instantiating a class
 The process of creating a an object from a class.
 If I want to access an instance of a class, I could do that by typing in:  ObjectName.method = ('name of the method)
-        i.e. line 24
-I can access an attribute that belongs to a class from an instance of the class, I can by using object name, followed by a dot notation and then the name of the attribute.  ObjectName.Attribute
-        i.e. line 26
+        
+
+
 
 
 
@@ -21,6 +21,4 @@ elearning = Instructors("Python for Beginners")  # instantiated a class
 
 bls = Instructors("Django for Beginners")  # a variable  second instance of the class.
 
-bls.printinfo()  # My company name is  Bluelime
-
-print(bls.course)  # Django for Beginners
+bls.printinfo()
