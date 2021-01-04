@@ -1,0 +1,10 @@
+'''                 Inheritance : Part 1
+
+
+
+
+
+
+
+
+'''

@@ -1,0 +1,12 @@
+                Class and instance Variables
+
+Class Variables                         Instance (Object) Variables
+Defined outside any method.             Defined insideclass methods.
+Accessed outside class with class name. Accessed outside class with objectName
+Not prefixed.                           Prefixed with self keyword.
+Modifications affects all class instances.  Modifications to object are local.
+Classes are indented.                   Instances are not indented.
+
+
+
+
