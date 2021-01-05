@@ -1,0 +1,10 @@
+'''                 Encapsulation : Part 1
+
+
+
+
+
+
+
+
+'''

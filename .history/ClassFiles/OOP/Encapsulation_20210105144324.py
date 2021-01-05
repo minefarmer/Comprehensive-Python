@@ -1,0 +1,1 @@
+'''                 Encapsulation : Part 1
