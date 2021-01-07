@@ -17,4 +17,4 @@ f = open("c:\\MyFolders\Myfile.txt")  # if hot in the same directory.
 # f.close()
 # print(f.readable())
 
-print(f.read(11))
+print(f.read())
