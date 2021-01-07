@@ -1,0 +1,2 @@
+                    Python Built-in File Object
+Python has this a built-in file (GET) that has differient functions and methods that I can use to interact with

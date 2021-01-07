@@ -1,0 +1,11 @@
+                    Python Built-in File Object
+Python has this a built-in file (GET) that has differient functions and methods that I can use to interact with external files.
+
+    PYTHON GET FILE HANDLING AND BUILT-IN FUNCTIONS
+
+Function        Description
+open()          Used to open files. Takes two arguments: file name and mode.
+read()          Used to read the entire file content
+readline()      Used
+
+

@@ -1,0 +1,7 @@
+'''                 Pycache directory(.pyc)
+Pycache
+
+
+
+'''
+
