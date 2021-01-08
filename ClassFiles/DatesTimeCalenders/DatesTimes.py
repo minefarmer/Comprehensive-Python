@@ -22,4 +22,9 @@ print('The weekday number is', today.weekday())  # The weekday number is 3
 days = ["monday", "tuesday","wednesday","thursday","friday","saturday","sunday"]
 print("the weekday is", days[today.weekday()])  # the weekday is thursday
 
+today = datetime.now()  # now is the method
 
+print("The current time is ", today)  # The current time is  2021-01-08 12:07:39.262720
+
+t = datetime.time(datetime.now())
+print("The time noe is ", t)  # The time noe is  12:12:41.306702

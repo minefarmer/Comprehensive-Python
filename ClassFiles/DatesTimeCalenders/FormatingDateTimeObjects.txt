@@ -1,0 +1,34 @@
+                    Formatting date and time objects:
+The datetime object has a method for formating date objects into readable strings. It is called strftime().
+
+    FORMATING DATE
+Directive   Description                                 Example
+%a          Weekday short version                       Mon
+%A          Weekday full version                        Monday
+%w          Weekday index numbers 0-6: Mon is index 0   0
+%d          Day of the month: 01-31                     17
+%b          Month name short version                    Dec
+%B          Month name full version                     July
+%m          Month as a number                           12
+%y          Year short version, without century         19
+%Y          Year full version                           2019
+
+
+
+    FORMATING THE TIME
+Directive   Description                                 Example
+%H          Hour:00 - 23                                18
+%h          Hour:00 - 12                                07
+%p          AM / PM                                     AM
+%M          Minute: 00 - 59                             47
+%S          Seconds: 00 - 59                            07
+%f          Microsecond: 000000 - 999999                656789
+%z          UTC offset                                  + 0101
+%Z          Timezone                                    CST
+%J          Day number of year: 001 - 366               365
+%U          Week number of year. Sunday as first day of the week. 00 - 53   53
+%W          Week number of year. Monday as first day of the week. 00 - 52   52
+%c          Local version of date and time              Mon Apr 10 13:05:00 2021
+%x          Local version of date                       04|8|19
+%X          local version of time                       14:20:00
+%%          A % character                               %
