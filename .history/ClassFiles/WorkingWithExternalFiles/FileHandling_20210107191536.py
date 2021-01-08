@@ -8,8 +8,6 @@ f = open("c:\\MyFolders\Myfile.txt")  # if hot in the same directory.
 
 
 """
-f = open("quotes.txt")
-
-print(f.readable())
+f = open
 
 
