@@ -26,3 +26,41 @@ Mode    Description
 "a"     Opens the file to append. Creates a new file if not present.
 "t"     Text = default mode.
 "x"     Create the specified file, returns error if the file exists.
+
+
+
+
+{% comment %}                  Opening and Reading Files
+        Syntax to open file.
+f = open("Myfile.txt)  # assigned to the variable f.
+
+f = open("Myfile.txt","rt")  # if in the same directory.
+
+f = open("c:\\MyFolders\Myfile.txt")  # if hot in the same directory.
+
+
+{% endcomment %}
+>>> f = open("Quotes.txt")
+>>> print (f.readable())
+True
+>>> print(f.read())
+                    Opening and Reading Files
+
+Kindness is a universial language.
+
+Everyday is a gift. Do not waste it.
+
+Drean big and take action.
+
+
+>>> 
+>>> f.close()
+>>> print(f.read())
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ValueError: I/O operation on closed file.
+>>> 
+
+
+
+

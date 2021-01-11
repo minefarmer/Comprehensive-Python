@@ -1,4 +1,4 @@
-                    Opening and Reading Files
+                    {% comment %} Opening and Reading Files {% endcomment %}
 
 Kindness is a universial language.
 
