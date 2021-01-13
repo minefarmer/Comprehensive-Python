@@ -7,7 +7,6 @@ PILLOW allows me to manipulate images.
 
 
 
-
 '''
 # Load and show on image with Pillow
 from PIL import Image
