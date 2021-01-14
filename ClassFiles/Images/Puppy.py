@@ -10,7 +10,7 @@ PILLOW allows me to manipulate images.
 
 '''
 # Load and show on image with Pillow
-from PIL import Image
+from Pil import Image
 
 # Load the image
 img = Image.open("Puppies/pup1.jpg")
